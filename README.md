@@ -139,7 +139,7 @@ plt.show()
 
   ```
 
-<img width="451" alt="Screenshot 2025-05-04 at 11 33 52" src="https://github.com/user-attachments/assets/07946e5d-e4bb-4a2c-b0bb-54c699e4e169" />
+<img width="462" alt="Screenshot 2025-05-04 at 12 52 59" src="https://github.com/user-attachments/assets/7562cf1c-a191-4805-9923-762955eab08d" />
 
 
 9 - The following step was to create a line graph showcasing the survival rate in percentages between the classes. The below were taken to achieve this:
